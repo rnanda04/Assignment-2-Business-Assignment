@@ -1,0 +1,18 @@
+body {
+	background-color: #ffffff;
+}
+
+.btn-lg {
+	background-color: #0000ff;
+}
+
+.price {
+	font-weight: bold;
+}
+
+.locations {
+	font-weight: bold;
+	font-size-adjust: 0.58;
+	font-kerning: normal;
+}
+

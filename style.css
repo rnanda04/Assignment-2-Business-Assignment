@@ -1,0 +1,21 @@
+
+.btn-lg {
+	background-color: #0000ff;
+}
+
+.price {
+	font-weight: bold;
+}
+
+.locations {
+	font-weight: bold;
+	font-size-adjust: 1;
+	font-kerning: normal;
+	text-shadow: 1px;
+
+}
+
+.jumbotron {
+	box-shadow: 5px 5px; 
+}
+
